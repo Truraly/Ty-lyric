@@ -21,7 +21,7 @@ export default defineConfig({
   lang: "zh-CN",
   title: "Ty-Lyric",
   description: "（网站介绍）",
-  head: [["script", { src: "/node_modules/vextab/dist/div.dev.js" }]],
+//   head: [["script", { src: "/node_modules/vextab/dist/div.dev.js" }]],
   themeConfig: {
     // 上端导航栏，使用方式见：https://vitepress.dev/reference/default-theme-config
     nav: [{ text: "Home", link: "/" }],
