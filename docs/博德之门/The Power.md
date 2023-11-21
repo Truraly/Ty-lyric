@@ -18,12 +18,6 @@ tags:
 网易云: https://music.163.com/song?id=2071572530
 ```
 
-作词 : Borislav Slavov
-
-作曲 : Borislav Slavov
-
-编曲 : Borislav Slavov/Victor Stoyanov
-
 We make our way over here more enchanting
 
 我们沿着这条迷人的道路前行
