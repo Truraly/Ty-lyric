@@ -6,7 +6,7 @@
   "license": "TIM",
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "docs:build": "vitepress build && bash ./moveLogo.sh",
     "docs:preview": "vitepress preview",
     "docs:create": "node ./js/createBlog.js",
     "test": "node ./js/test.js"

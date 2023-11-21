@@ -7,7 +7,7 @@ const props = defineProps(["foo"]);
 // const Renderer = Vex.Flow.Renderer;
 
 let cl = setInterval(() => {
-  // @ts-ignore
+  if (document == undefined) return clearInterval(cl);
   const element = document.getElementById("boo");
   if (element) {
     clearInterval(cl);
